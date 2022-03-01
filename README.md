@@ -4,6 +4,6 @@ This is my README file.
 
 My name is Shadi.
 
-I have done basic HTML coding.
+I have done some basic HTML coding.
 
 
